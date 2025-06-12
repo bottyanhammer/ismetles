@@ -46,6 +46,7 @@ img{width: 100%;}
     width: 15%;
     float: right;
     margin-left: 1rem;
+    border-radius: 50%;;
 }
 main p{
     line-height: 2;
@@ -55,6 +56,9 @@ main p{
 table{
     margin: 0 auto;
     width: 50%;
+}
+table td ul{
+ list-style: none;
 }
 
 article{
